@@ -1,4 +1,6 @@
 # Smart Email Assistant – AI-Powered Gmail Reply Generator with Tone Customization 
+![Smart Email Assistant Screenshot](./photo.jpeg)
+
 - ✅ Project intro  
 - 🧠 Problem & 💡 Solution  
 - 🚀 Features  
